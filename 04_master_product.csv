@@ -1,4 +1,4 @@
 ID,Internal Reference,Name,Cost,Sales Price,Unit of Measure,Purchase Unit of Measure,Product Category
-13170-0001,13170-0001,BB20,7168,12916,kg,kg,Bahan Baku
-13170-0002,13170-0002,BJ20,6450,7700,Liters,Liters,Barang Jadi
-13170-0003,13170-0003,BP20,7168,12916,Units,Units,Pengemas
+13170-0001,13170-0001,BB20,7168,12916,Kg,Kg,All
+13170-0002,13170-0002,BJ20,6450,7700,Liter,Liter,All
+13170-0003,13170-0003,BP20,7168,12916,Jerigen,Jerigen,All

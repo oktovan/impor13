@@ -1,3 +1,5 @@
 Journal,Reference,Date,Journal Items/Account,Journal Items/Name,Journal Items/Partner,Journal Items/debit,Journal Items/credit
-Miscellaneous Operations,Beginning Balance,2020-01-01,1-111001K,Kas Kecil Banget,,150000,
-,,,39000000,Credit Centralization,,,150000
+Miscellaneous Operations,Beginning Balance,2020-01-01,11110001,Kas Kecil,,150000,
+,,,11210010,Piutang Usaha,Mmaterual,200000,
+,,,21100010,Hutang Usaha,Mmaterual,,200000
+,,,39000000,Historical Balance,,,150000
